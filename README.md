@@ -58,8 +58,9 @@ Software Engineering student focused on mobile & web development, passionate abo
 
 ### 🚀 Highlighted Projects
 
-* **Smart Spend Architecture:** Engineered an automated receipt processing application integrating Google Vision API and Gemini for OCR data extraction and ML analytics.
-* **3D Room Editor:** Developed an interactive 3D modeling tool with custom wall/door geometry and grid-snapping logic.
+* **Smart-Spend (AI-Powered Financial Application):** Engineered an automated receipt processing application integrating Google Vision API and Gemini for OCR data extraction and ML analytics.
+* **PixelGame:** Developed an interactive 2D mobile game utilizing the Flutter Flame engine, featuring custom environments structured with Tiled UI design.
+* **Money-Tracker:** Built a cross-platform mobile application using Flutter for intuitive personal financial management and user expense tracking.
 
 ---
 
