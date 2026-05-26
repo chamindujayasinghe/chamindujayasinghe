@@ -62,11 +62,4 @@ Software Engineering student focused on mobile & web development, passionate abo
 * **PixelGame:** Developed an interactive 2D mobile game utilizing the Flutter Flame engine, featuring custom environments structured with Tiled UI design.
 * **Money-Tracker:** Built a cross-platform mobile application using Flutter for intuitive personal financial management and user expense tracking.
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
